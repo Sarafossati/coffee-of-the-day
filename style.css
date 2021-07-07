@@ -1,0 +1,14 @@
+body{
+    width: 384px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2,h3,h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
